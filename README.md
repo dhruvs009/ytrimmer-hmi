@@ -22,13 +22,15 @@ Use the following structure in a csv. The values in the table are just dummy val
 
 ## Converted File Structure
 Assuming annotator name to be Dhruv, a csv with the following structure is created at the specified path.
-|||||||Extra columns appear here||
+|||||||Extra columns||
 |-|-|-|-|-|-|-|-|
 |Operation MBBS|  2|https://www.youtubetrimmer.com/view/?v=i2tZjJ6bxnI&start=927&end=933|927|933|Dhruv|...|angry|
 |Operation MBBS|  4|https://www.youtubetrimmer.com/view/?v=mZa-wKePntg&start=241&end=250|241|250|Dhruv|...|angry|
 |Operation MBBS|  1|https://www.youtubetrimmer.com/view/?v=aK-wgYKdBVE&start=11&end=13|11|13|Dhruv|...|fear|
 |Operation MBBS|  5|https://www.youtubetrimmer.com/view/?v=hr2CCO0qxDo&start=647&end=656|647|656|Dhruv|...|sad|
 |Operation MBBS|  3|https://www.youtubetrimmer.com/view/?v=lwCU3tuRnuU&start=7437&end=7445|7437|7445|Dhruv|...|surprised|
+
 <br>
+
 > [Dhruv Sahnan](https://github.com/dhruvs009)<br>
 > IIIT Delhi
