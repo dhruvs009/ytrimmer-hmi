@@ -22,7 +22,7 @@ Use the following structure in a csv. The values in the table are just dummy val
 
 ## Converted File Structure
 Assuming annotator name to be Dhruv, a csv with the following structure is created at the specified path.
-|||||||||
+|||||||Extra columns appear here||
 |-|-|-|-|-|-|-|-|
 |Operation MBBS|  2|https://www.youtubetrimmer.com/view/?v=i2tZjJ6bxnI&start=927&end=933|927|933|Dhruv|...|angry|
 |Operation MBBS|  4|https://www.youtubetrimmer.com/view/?v=mZa-wKePntg&start=241&end=250|241|250|Dhruv|...|angry|
