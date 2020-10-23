@@ -41,8 +41,8 @@ class YTrimmer():
         self.write_converted_csv(self.converted_data, self.converted_filename)
 
 if __name__ == '__main__':
-    filename = input("Path to file to convert: ")
+    filename = input("Path to csv file to convert: ")
     annotator_name = input("Annotator Name: ")
-    converted_filename = input("Path to converted file: ")
+    converted_filename = input("Path to converted csv file: ")
     converter = YTrimmer(filename, annotator_name, converted_filename, -1)
     converter.convert()
