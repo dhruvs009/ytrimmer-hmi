@@ -20,7 +20,7 @@ Use the following structure in a csv. The values in the table are just dummy val
 
 <br>
 
-## Converted File Structure
+## Converted file structure
 Assuming annotator name to be Dhruv, a csv with the following structure is created at the specified path.
 |||||||Extra columns||
 |-|-|-|-|-|-|-|-|
