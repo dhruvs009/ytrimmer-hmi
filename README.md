@@ -8,7 +8,7 @@ A simple python script to convert YouTube links to YouTubeTrimmer links, using s
 4. Provide csv filepath, annotator name, converted csv filepath as asked.<br>
 5. A file with converted filepath will be created.<br><br>
 
-## Original File Structure
+## Original file Structure
 Use the following structure in a csv. The values in the table are just dummy values, the timeframes may not even exist in the video for the examples given.
 ||||||Add columns here if needed||
 |-|-|-|-|-|-|-|
